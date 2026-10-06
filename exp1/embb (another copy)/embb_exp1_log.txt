@@ -1,0 +1,187 @@
+================================================
+EXPERIMENT 1 — embb ISOLATED BASELINE
+Date: Wed 12 Aug 2026 04:06:59 SAST
+UE: oai-nr-ue3 (IMSI: 001010000000103)
+Service: embb — C2 link simulation
+Rate: 120 Mbps | Packet: 64B | Period: 15s
+Runs: 10 | Transmissions per run: 5
+================================================
+
+--- RUN 1 of 10 ---
+Start: 04:06:59
+  TX 1/5 at 04:07:25
+  TX 2/5 at 04:07:58
+  TX 3/5 at 04:08:30
+  TX 4/5 at 04:09:02
+  TX 5/5 at 04:09:34
+End: 04:09:42
+Output: embb_run_1.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 2 of 10 ---
+Start: 04:10:29
+  TX 1/5 at 04:10:55
+  TX 2/5 at 04:11:28
+  TX 3/5 at 04:12:02
+  TX 4/5 at 04:12:35
+  TX 5/5 at 04:13:07
+End: 04:13:15
+Output: embb_run_2.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 3 of 10 ---
+Start: 04:14:02
+  TX 1/5 at 04:14:28
+  TX 2/5 at 04:15:01
+  TX 3/5 at 04:15:32
+  TX 4/5 at 04:16:05
+  TX 5/5 at 04:16:37
+End: 04:16:45
+Output: embb_run_3.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 4 of 10 ---
+Start: 04:17:32
+  TX 1/5 at 04:17:58
+  TX 2/5 at 04:18:31
+  TX 3/5 at 04:19:03
+  TX 4/5 at 04:19:36
+  TX 5/5 at 04:20:09
+End: 04:20:17
+Output: embb_run_4.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 5 of 10 ---
+Start: 04:21:04
+  TX 1/5 at 04:21:30
+  TX 2/5 at 04:22:03
+  TX 3/5 at 04:22:35
+  TX 4/5 at 04:23:08
+  TX 5/5 at 04:23:40
+End: 04:23:48
+Output: embb_run_5.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 6 of 10 ---
+Start: 04:24:35
+  TX 1/5 at 04:25:01
+  TX 2/5 at 04:25:34
+  TX 3/5 at 04:26:07
+  TX 4/5 at 04:26:39
+  TX 5/5 at 04:27:12
+End: 04:27:20
+Output: embb_run_6.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 7 of 10 ---
+Start: 04:28:07
+  TX 1/5 at 04:28:33
+  TX 2/5 at 04:29:06
+  TX 3/5 at 04:29:39
+  TX 4/5 at 04:30:11
+  TX 5/5 at 04:30:44
+End: 04:30:52
+Output: embb_run_7.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 8 of 10 ---
+Start: 04:31:39
+  TX 1/5 at 04:32:05
+  TX 2/5 at 04:32:37
+  TX 3/5 at 04:33:10
+  TX 4/5 at 04:33:43
+  TX 5/5 at 04:34:15
+End: 04:34:23
+Output: embb_run_8.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 9 of 10 ---
+Start: 04:35:10
+  TX 1/5 at 04:35:34
+  TX 2/5 at 04:36:06
+  TX 3/5 at 04:36:37
+  TX 4/5 at 04:37:09
+  TX 5/5 at 04:37:41
+End: 04:37:49
+Output: embb_run_9.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 10 of 10 ---
+Start: 04:38:36
+  TX 1/5 at 04:39:01
+  TX 2/5 at 04:39:32
+  TX 3/5 at 04:40:04
+  TX 4/5 at 04:40:35
+  TX 5/5 at 04:41:07
+End: 04:41:15
+Output: embb_run_10.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+================================================
+EXPERIMENT 1 embb COMPLETE
+Finished: Wed 12 Aug 2026 04:42:02 SAST
+Results: ~/iperf_results/testbed/exp1/embb/
+================================================
+================================================
+EXPERIMENT 1 — embb ISOLATED BASELINE
+Date: Thu 13 Aug 2026 08:14:41 SAST
+UE: oai-nr-ue3 (IMSI: 001010000000103)
+Service: embb — C2 link simulation
+Rate: 120 Mbps | Packet: 64B | Period: 15s
+Runs: 10 | Transmissions per run: 5
+================================================
+
+--- RUN 1 of 10 ---
+Start: 08:14:41
+  TX 1/5 at 08:14:42
+  TX 2/5 at 08:14:50

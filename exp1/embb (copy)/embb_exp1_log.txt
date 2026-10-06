@@ -1,0 +1,174 @@
+================================================
+EXPERIMENT 1 — embb ISOLATED BASELINE
+Date: Mon 10 Aug 2026 03:34:23 SAST
+UE: oai-nr-ue3 (IMSI: 001010000000103)
+Service: embb — C2 link simulation
+Rate: 120 Mbps | Packet: 64B | Period: 15s
+Runs: 10 | Transmissions per run: 5
+================================================
+
+--- RUN 1 of 10 ---
+Start: 03:34:23
+  TX 1/5 at 03:35:13
+  TX 2/5 at 03:36:10
+  TX 3/5 at 03:37:09
+  TX 4/5 at 03:38:08
+  TX 5/5 at 03:39:08
+End: 03:39:16
+Output: embb_run_1.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 2 of 10 ---
+Start: 03:40:03
+  TX 1/5 at 03:40:58
+  TX 2/5 at 03:41:59
+  TX 3/5 at 03:43:02
+  TX 4/5 at 03:44:06
+  TX 5/5 at 03:45:09
+End: 03:45:17
+Output: embb_run_2.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 3 of 10 ---
+Start: 03:46:04
+  TX 1/5 at 03:47:00
+  TX 2/5 at 03:48:03
+  TX 3/5 at 03:49:07
+  TX 4/5 at 03:50:10
+  TX 5/5 at 03:51:13
+End: 03:51:21
+Output: embb_run_3.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 4 of 10 ---
+Start: 03:52:08
+  TX 1/5 at 03:53:04
+  TX 2/5 at 03:54:08
+  TX 3/5 at 03:55:11
+  TX 4/5 at 03:56:14
+  TX 5/5 at 03:57:17
+End: 03:57:25
+Output: embb_run_4.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 5 of 10 ---
+Start: 03:58:12
+  TX 1/5 at 03:59:08
+  TX 2/5 at 04:00:11
+  TX 3/5 at 04:01:15
+  TX 4/5 at 04:02:18
+  TX 5/5 at 04:03:21
+End: 04:03:29
+Output: embb_run_5.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 6 of 10 ---
+Start: 04:04:16
+  TX 1/5 at 04:05:12
+  TX 2/5 at 04:06:15
+  TX 3/5 at 04:07:18
+  TX 4/5 at 04:08:22
+  TX 5/5 at 04:09:25
+End: 04:09:33
+Output: embb_run_6.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 7 of 10 ---
+Start: 04:10:20
+  TX 1/5 at 04:11:10
+  TX 2/5 at 04:12:08
+  TX 3/5 at 04:13:05
+  TX 4/5 at 04:14:02
+  TX 5/5 at 04:15:00
+End: 04:15:08
+Output: embb_run_7.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 8 of 10 ---
+Start: 04:15:55
+  TX 1/5 at 04:16:47
+  TX 2/5 at 04:17:48
+  TX 3/5 at 04:18:50
+  TX 4/5 at 04:19:52
+  TX 5/5 at 04:20:55
+End: 04:21:03
+Output: embb_run_8.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 9 of 10 ---
+Start: 04:21:49
+  TX 1/5 at 04:22:46
+  TX 2/5 at 04:23:49
+  TX 3/5 at 04:24:52
+  TX 4/5 at 04:25:55
+  TX 5/5 at 04:26:59
+End: 04:27:07
+Output: embb_run_9.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 10 of 10 ---
+Start: 04:27:53
+  TX 1/5 at 04:28:49
+  TX 2/5 at 04:29:53
+  TX 3/5 at 04:30:56
+  TX 4/5 at 04:31:59
+  TX 5/5 at 04:33:02
+End: 04:33:10
+Output: embb_run_10.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+================================================
+EXPERIMENT 1 embb COMPLETE
+Finished: Mon 10 Aug 2026 04:33:57 SAST
+Results: ~/iperf_results/testbed/exp1/embb/
+================================================

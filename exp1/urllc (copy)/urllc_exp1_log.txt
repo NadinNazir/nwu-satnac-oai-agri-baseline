@@ -1,0 +1,324 @@
+================================================
+EXPERIMENT 1 — urllc ISOLATED BASELINE
+Date: Sat 08 Aug 2026 23:24:57 SAST
+UE: oai-nr-ue2 (IMSI: 001010000000102)
+Service: urllc — C2 link simulation
+Rate: 28 kbps | Packet: 256B | Period: 6s
+Runs: 10 | Transmissions per run: 20
+================================================
+
+--- RUN 1 of 10 ---
+Start: 23:24:57
+  TX 1/20 at 23:25:00
+  TX 2/20 at 23:25:06
+  TX 3/20 at 23:25:13
+  TX 4/20 at 23:25:19
+  TX 5/20 at 23:25:25
+  TX 6/20 at 23:25:32
+  TX 7/20 at 23:25:38
+  TX 8/20 at 23:25:44
+  TX 9/20 at 23:25:51
+  TX 10/20 at 23:25:57
+  TX 11/20 at 23:26:03
+  TX 12/20 at 23:26:10
+  TX 13/20 at 23:26:16
+  TX 14/20 at 23:26:22
+  TX 15/20 at 23:26:29
+  TX 16/20 at 23:26:35
+  TX 17/20 at 23:26:42
+  TX 18/20 at 23:26:48
+  TX 19/20 at 23:26:54
+  TX 20/20 at 23:27:01
+End: 23:27:06
+Output: urllc_run_1.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 2 of 10 ---
+Start: 23:27:52
+  TX 1/20 at 23:27:54
+  TX 2/20 at 23:28:01
+  TX 3/20 at 23:28:07
+  TX 4/20 at 23:28:13
+  TX 5/20 at 23:28:20
+  TX 6/20 at 23:28:26
+  TX 7/20 at 23:28:32
+  TX 8/20 at 23:28:39
+  TX 9/20 at 23:28:45
+  TX 10/20 at 23:28:52
+  TX 11/20 at 23:28:58
+  TX 12/20 at 23:29:04
+  TX 13/20 at 23:29:11
+  TX 14/20 at 23:29:17
+  TX 15/20 at 23:29:23
+  TX 16/20 at 23:29:30
+  TX 17/20 at 23:29:36
+  TX 18/20 at 23:29:42
+  TX 19/20 at 23:29:49
+  TX 20/20 at 23:29:55
+End: 23:30:00
+Output: urllc_run_2.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 3 of 10 ---
+Start: 23:30:47
+  TX 1/20 at 23:30:49
+  TX 2/20 at 23:30:55
+  TX 3/20 at 23:31:02
+  TX 4/20 at 23:31:08
+  TX 5/20 at 23:31:14
+  TX 6/20 at 23:31:21
+  TX 7/20 at 23:31:27
+  TX 8/20 at 23:31:34
+  TX 9/20 at 23:31:40
+  TX 10/20 at 23:31:46
+  TX 11/20 at 23:31:53
+  TX 12/20 at 23:31:59
+  TX 13/20 at 23:32:05
+  TX 14/20 at 23:32:12
+  TX 15/20 at 23:32:18
+  TX 16/20 at 23:32:24
+  TX 17/20 at 23:32:31
+  TX 18/20 at 23:32:37
+  TX 19/20 at 23:32:43
+  TX 20/20 at 23:32:50
+End: 23:32:55
+Output: urllc_run_3.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 4 of 10 ---
+Start: 23:33:41
+  TX 1/20 at 23:33:44
+  TX 2/20 at 23:33:50
+  TX 3/20 at 23:33:57
+  TX 4/20 at 23:34:03
+  TX 5/20 at 23:34:09
+  TX 6/20 at 23:34:16
+  TX 7/20 at 23:34:22
+  TX 8/20 at 23:34:28
+  TX 9/20 at 23:34:35
+  TX 10/20 at 23:34:41
+  TX 11/20 at 23:34:47
+  TX 12/20 at 23:34:54
+  TX 13/20 at 23:35:00
+  TX 14/20 at 23:35:06
+  TX 15/20 at 23:35:13
+  TX 16/20 at 23:35:19
+  TX 17/20 at 23:35:26
+  TX 18/20 at 23:35:32
+  TX 19/20 at 23:35:38
+  TX 20/20 at 23:35:45
+End: 23:35:50
+Output: urllc_run_4.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 5 of 10 ---
+Start: 23:36:36
+  TX 1/20 at 23:36:38
+  TX 2/20 at 23:36:45
+  TX 3/20 at 23:36:51
+  TX 4/20 at 23:36:57
+  TX 5/20 at 23:37:04
+  TX 6/20 at 23:37:10
+  TX 7/20 at 23:37:17
+  TX 8/20 at 23:37:23
+  TX 9/20 at 23:37:29
+  TX 10/20 at 23:37:36
+  TX 11/20 at 23:37:42
+  TX 12/20 at 23:37:48
+  TX 13/20 at 23:37:55
+  TX 14/20 at 23:38:01
+  TX 15/20 at 23:38:07
+  TX 16/20 at 23:38:14
+  TX 17/20 at 23:38:20
+  TX 18/20 at 23:38:27
+  TX 19/20 at 23:38:33
+  TX 20/20 at 23:38:39
+End: 23:38:44
+Output: urllc_run_5.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 6 of 10 ---
+Start: 23:39:31
+  TX 1/20 at 23:39:33
+  TX 2/20 at 23:39:39
+  TX 3/20 at 23:39:46
+  TX 4/20 at 23:39:52
+  TX 5/20 at 23:39:58
+  TX 6/20 at 23:40:05
+  TX 7/20 at 23:40:11
+  TX 8/20 at 23:40:18
+  TX 9/20 at 23:40:24
+  TX 10/20 at 23:40:30
+  TX 11/20 at 23:40:37
+  TX 12/20 at 23:40:43
+  TX 13/20 at 23:40:49
+  TX 14/20 at 23:40:56
+  TX 15/20 at 23:41:02
+  TX 16/20 at 23:41:08
+  TX 17/20 at 23:41:15
+  TX 18/20 at 23:41:21
+  TX 19/20 at 23:41:27
+  TX 20/20 at 23:41:34
+End: 23:41:39
+Output: urllc_run_6.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 7 of 10 ---
+Start: 23:42:25
+  TX 1/20 at 23:42:28
+  TX 2/20 at 23:42:34
+  TX 3/20 at 23:42:40
+  TX 4/20 at 23:42:47
+  TX 5/20 at 23:42:53
+  TX 6/20 at 23:43:00
+  TX 7/20 at 23:43:06
+  TX 8/20 at 23:43:12
+  TX 9/20 at 23:43:19
+  TX 10/20 at 23:43:25
+  TX 11/20 at 23:43:31
+  TX 12/20 at 23:43:38
+  TX 13/20 at 23:43:44
+  TX 14/20 at 23:43:50
+  TX 15/20 at 23:43:57
+  TX 16/20 at 23:44:03
+  TX 17/20 at 23:44:09
+  TX 18/20 at 23:44:16
+  TX 19/20 at 23:44:22
+  TX 20/20 at 23:44:28
+End: 23:44:33
+Output: urllc_run_7.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 8 of 10 ---
+Start: 23:45:20
+  TX 1/20 at 23:45:23
+  TX 2/20 at 23:45:29
+  TX 3/20 at 23:45:35
+  TX 4/20 at 23:45:42
+  TX 5/20 at 23:45:48
+  TX 6/20 at 23:45:54
+  TX 7/20 at 23:46:01
+  TX 8/20 at 23:46:07
+  TX 9/20 at 23:46:13
+  TX 10/20 at 23:46:20
+  TX 11/20 at 23:46:26
+  TX 12/20 at 23:46:32
+  TX 13/20 at 23:46:39
+  TX 14/20 at 23:46:45
+  TX 15/20 at 23:46:51
+  TX 16/20 at 23:46:58
+  TX 17/20 at 23:47:04
+  TX 18/20 at 23:47:10
+  TX 19/20 at 23:47:17
+  TX 20/20 at 23:47:23
+End: 23:47:28
+Output: urllc_run_8.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 9 of 10 ---
+Start: 23:48:15
+  TX 1/20 at 23:48:17
+  TX 2/20 at 23:48:24
+  TX 3/20 at 23:48:30
+  TX 4/20 at 23:48:36
+  TX 5/20 at 23:48:43
+  TX 6/20 at 23:48:49
+  TX 7/20 at 23:48:56
+  TX 8/20 at 23:49:02
+  TX 9/20 at 23:49:08
+  TX 10/20 at 23:49:15
+  TX 11/20 at 23:49:21
+  TX 12/20 at 23:49:27
+  TX 13/20 at 23:49:34
+  TX 14/20 at 23:49:40
+  TX 15/20 at 23:49:46
+  TX 16/20 at 23:49:53
+  TX 17/20 at 23:49:59
+  TX 18/20 at 23:50:06
+  TX 19/20 at 23:50:12
+  TX 20/20 at 23:50:18
+End: 23:50:23
+Output: urllc_run_9.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+--- RUN 10 of 10 ---
+Start: 23:51:10
+  TX 1/20 at 23:51:12
+  TX 2/20 at 23:51:18
+  TX 3/20 at 23:51:25
+  TX 4/20 at 23:51:31
+  TX 5/20 at 23:51:38
+  TX 6/20 at 23:51:44
+  TX 7/20 at 23:51:50
+  TX 8/20 at 23:51:57
+  TX 9/20 at 23:52:03
+  TX 10/20 at 23:52:09
+  TX 11/20 at 23:52:16
+  TX 12/20 at 23:52:22
+  TX 13/20 at 23:52:28
+  TX 14/20 at 23:52:35
+  TX 15/20 at 23:52:41
+  TX 16/20 at 23:52:47
+  TX 17/20 at 23:52:54
+  TX 18/20 at 23:53:00
+  TX 19/20 at 23:53:06
+  TX 20/20 at 23:53:13
+End: 23:53:18
+Output: urllc_run_10.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+WARNING: UE not attached — waiting 10s more
+Waiting 10s before next run...
+
+================================================
+EXPERIMENT 1 urllc COMPLETE
+Finished: Sat 08 Aug 2026 23:54:04 SAST
+Results: ~/iperf_results/testbed/exp1/urllc/
+================================================

@@ -1,0 +1,355 @@
+UE2 tunnel IP: 10.0.0.3
+================================================
+EXPERIMENT 1 — urllc ISOLATED BASELINE
+Date: Fri 14 Aug 2026 11:19:51 SAST
+UE: oai-nr-ue2 (IMSI: 001010000000102)
+Service: urllc — C2 link simulation
+Rate: 28 kbps | Packet: 256B | Period: 6s
+Runs: 10 | Transmissions per run: 20
+================================================
+
+--- RUN 1 of 10 ---
+Start: 11:19:51
+Ping started (PID 1425615)
+  TX 1/20 at 11:19:58
+  TX 2/20 at 11:20:04
+  TX 3/20 at 11:20:11
+  TX 4/20 at 11:20:17
+  TX 5/20 at 11:20:24
+  TX 6/20 at 11:20:30
+  TX 7/20 at 11:20:36
+  TX 8/20 at 11:20:43
+  TX 9/20 at 11:20:49
+  TX 10/20 at 11:20:56
+  TX 11/20 at 11:21:02
+  TX 12/20 at 11:21:08
+  TX 13/20 at 11:21:15
+  TX 14/20 at 11:21:21
+  TX 15/20 at 11:21:28
+  TX 16/20 at 11:21:34
+  TX 17/20 at 11:21:40
+  TX 18/20 at 11:21:47
+  TX 19/20 at 11:21:53
+  TX 20/20 at 11:22:00
+Ping stopped
+End: 11:22:05
+Output: urllc_run_1.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+UE2 tunnel IP: 10.0.0.3
+UE attached successfully
+Waiting 10s before next run...
+
+--- RUN 2 of 10 ---
+Start: 11:22:37
+Ping started (PID 1437169)
+  TX 1/20 at 11:22:44
+  TX 2/20 at 11:22:50
+  TX 3/20 at 11:22:56
+  TX 4/20 at 11:23:03
+  TX 5/20 at 11:23:09
+  TX 6/20 at 11:23:16
+  TX 7/20 at 11:23:22
+  TX 8/20 at 11:23:28
+  TX 9/20 at 11:23:35
+  TX 10/20 at 11:23:41
+  TX 11/20 at 11:23:48
+  TX 12/20 at 11:23:54
+  TX 13/20 at 11:24:01
+  TX 14/20 at 11:24:07
+  TX 15/20 at 11:24:13
+  TX 16/20 at 11:24:20
+  TX 17/20 at 11:24:26
+  TX 18/20 at 11:24:33
+  TX 19/20 at 11:24:39
+  TX 20/20 at 11:24:46
+Ping stopped
+End: 11:24:51
+Output: urllc_run_2.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+UE2 tunnel IP: 10.0.0.3
+UE attached successfully
+Waiting 10s before next run...
+
+--- RUN 3 of 10 ---
+Start: 11:25:24
+Ping started (PID 1448603)
+  TX 1/20 at 11:25:31
+  TX 2/20 at 11:25:37
+  TX 3/20 at 11:25:44
+  TX 4/20 at 11:25:50
+  TX 5/20 at 11:25:56
+  TX 6/20 at 11:26:03
+  TX 7/20 at 11:26:09
+  TX 8/20 at 11:26:16
+  TX 9/20 at 11:26:22
+  TX 10/20 at 11:26:29
+  TX 11/20 at 11:26:35
+  TX 12/20 at 11:26:41
+  TX 13/20 at 11:26:48
+  TX 14/20 at 11:26:54
+  TX 15/20 at 11:27:01
+  TX 16/20 at 11:27:07
+  TX 17/20 at 11:27:14
+  TX 18/20 at 11:27:20
+  TX 19/20 at 11:27:26
+  TX 20/20 at 11:27:33
+Ping stopped
+End: 11:27:38
+Output: urllc_run_3.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+UE2 tunnel IP: 10.0.0.3
+UE attached successfully
+Waiting 10s before next run...
+
+--- RUN 4 of 10 ---
+Start: 11:28:10
+Ping started (PID 1460095)
+  TX 1/20 at 11:28:17
+  TX 2/20 at 11:28:23
+  TX 3/20 at 11:28:30
+  TX 4/20 at 11:28:36
+  TX 5/20 at 11:28:43
+  TX 6/20 at 11:28:49
+  TX 7/20 at 11:28:55
+  TX 8/20 at 11:29:02
+  TX 9/20 at 11:29:08
+  TX 10/20 at 11:29:15
+  TX 11/20 at 11:29:21
+  TX 12/20 at 11:29:28
+  TX 13/20 at 11:29:34
+  TX 14/20 at 11:29:40
+  TX 15/20 at 11:29:47
+  TX 16/20 at 11:29:53
+  TX 17/20 at 11:30:00
+  TX 18/20 at 11:30:06
+  TX 19/20 at 11:30:12
+  TX 20/20 at 11:30:19
+Ping stopped
+End: 11:30:24
+Output: urllc_run_4.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+UE2 tunnel IP: 10.0.0.3
+UE attached successfully
+Waiting 10s before next run...
+
+--- RUN 5 of 10 ---
+Start: 11:30:56
+Ping started (PID 1471521)
+  TX 1/20 at 11:31:03
+  TX 2/20 at 11:31:09
+  TX 3/20 at 11:31:16
+  TX 4/20 at 11:31:22
+  TX 5/20 at 11:31:29
+  TX 6/20 at 11:31:35
+  TX 7/20 at 11:31:41
+  TX 8/20 at 11:31:48
+  TX 9/20 at 11:31:54
+  TX 10/20 at 11:32:01
+  TX 11/20 at 11:32:07
+  TX 12/20 at 11:32:13
+  TX 13/20 at 11:32:20
+  TX 14/20 at 11:32:26
+  TX 15/20 at 11:32:33
+  TX 16/20 at 11:32:39
+  TX 17/20 at 11:32:46
+  TX 18/20 at 11:32:52
+  TX 19/20 at 11:32:58
+  TX 20/20 at 11:33:05
+Ping stopped
+End: 11:33:10
+Output: urllc_run_5.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+UE2 tunnel IP: 10.0.0.3
+UE attached successfully
+Waiting 10s before next run...
+
+--- RUN 6 of 10 ---
+Start: 11:33:43
+Ping started (PID 1482991)
+  TX 1/20 at 11:33:49
+  TX 2/20 at 11:33:56
+  TX 3/20 at 11:34:02
+  TX 4/20 at 11:34:08
+  TX 5/20 at 11:34:15
+  TX 6/20 at 11:34:21
+  TX 7/20 at 11:34:28
+  TX 8/20 at 11:34:34
+  TX 9/20 at 11:34:41
+  TX 10/20 at 11:34:47
+  TX 11/20 at 11:34:53
+  TX 12/20 at 11:35:00
+  TX 13/20 at 11:35:06
+  TX 14/20 at 11:35:13
+  TX 15/20 at 11:35:19
+  TX 16/20 at 11:35:26
+  TX 17/20 at 11:35:32
+  TX 18/20 at 11:35:38
+  TX 19/20 at 11:35:45
+  TX 20/20 at 11:35:51
+Ping stopped
+End: 11:35:56
+Output: urllc_run_6.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+UE2 tunnel IP: 10.0.0.3
+UE attached successfully
+Waiting 10s before next run...
+
+--- RUN 7 of 10 ---
+Start: 11:36:29
+Ping started (PID 1494420)
+  TX 1/20 at 11:36:35
+  TX 2/20 at 11:36:41
+  TX 3/20 at 11:36:48
+  TX 4/20 at 11:36:54
+  TX 5/20 at 11:37:01
+  TX 6/20 at 11:37:07
+  TX 7/20 at 11:37:13
+  TX 8/20 at 11:37:20
+  TX 9/20 at 11:37:26
+  TX 10/20 at 11:37:33
+  TX 11/20 at 11:37:39
+  TX 12/20 at 11:37:46
+  TX 13/20 at 11:37:52
+  TX 14/20 at 11:37:58
+  TX 15/20 at 11:38:05
+  TX 16/20 at 11:38:11
+  TX 17/20 at 11:38:18
+  TX 18/20 at 11:38:24
+  TX 19/20 at 11:38:31
+  TX 20/20 at 11:38:37
+Ping stopped
+End: 11:38:42
+Output: urllc_run_7.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+UE2 tunnel IP: 10.0.0.3
+UE attached successfully
+Waiting 10s before next run...
+
+--- RUN 8 of 10 ---
+Start: 11:39:15
+Ping started (PID 1505969)
+  TX 1/20 at 11:39:21
+  TX 2/20 at 11:39:27
+  TX 3/20 at 11:39:34
+  TX 4/20 at 11:39:40
+  TX 5/20 at 11:39:47
+  TX 6/20 at 11:39:53
+  TX 7/20 at 11:40:00
+  TX 8/20 at 11:40:06
+  TX 9/20 at 11:40:12
+  TX 10/20 at 11:40:19
+  TX 11/20 at 11:40:25
+  TX 12/20 at 11:40:32
+  TX 13/20 at 11:40:38
+  TX 14/20 at 11:40:45
+  TX 15/20 at 11:40:51
+  TX 16/20 at 11:40:57
+  TX 17/20 at 11:41:04
+  TX 18/20 at 11:41:10
+  TX 19/20 at 11:41:17
+  TX 20/20 at 11:41:23
+Ping stopped
+End: 11:41:28
+Output: urllc_run_8.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+UE2 tunnel IP: 10.0.0.3
+UE attached successfully
+Waiting 10s before next run...
+
+--- RUN 9 of 10 ---
+Start: 11:42:01
+Ping started (PID 1517243)
+  TX 1/20 at 11:42:07
+  TX 2/20 at 11:42:14
+  TX 3/20 at 11:42:20
+  TX 4/20 at 11:42:26
+  TX 5/20 at 11:42:33
+  TX 6/20 at 11:42:39
+  TX 7/20 at 11:42:46
+  TX 8/20 at 11:42:52
+  TX 9/20 at 11:42:58
+  TX 10/20 at 11:43:05
+  TX 11/20 at 11:43:11
+  TX 12/20 at 11:43:18
+  TX 13/20 at 11:43:24
+  TX 14/20 at 11:43:31
+  TX 15/20 at 11:43:37
+  TX 16/20 at 11:43:43
+  TX 17/20 at 11:43:50
+  TX 18/20 at 11:43:56
+  TX 19/20 at 11:44:03
+  TX 20/20 at 11:44:09
+Ping stopped
+End: 11:44:14
+Output: urllc_run_9.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+UE2 tunnel IP: 10.0.0.3
+UE attached successfully
+Waiting 10s before next run...
+
+--- RUN 10 of 10 ---
+Start: 11:44:47
+Ping started (PID 1528714)
+  TX 1/20 at 11:44:53
+  TX 2/20 at 11:45:00
+  TX 3/20 at 11:45:06
+  TX 4/20 at 11:45:13
+  TX 5/20 at 11:45:19
+  TX 6/20 at 11:45:25
+  TX 7/20 at 11:45:32
+  TX 8/20 at 11:45:38
+  TX 9/20 at 11:45:45
+  TX 10/20 at 11:45:51
+  TX 11/20 at 11:45:58
+  TX 12/20 at 11:46:04
+  TX 13/20 at 11:46:10
+  TX 14/20 at 11:46:17
+  TX 15/20 at 11:46:23
+  TX 16/20 at 11:46:30
+  TX 17/20 at 11:46:36
+  TX 18/20 at 11:46:43
+  TX 19/20 at 11:46:49
+  TX 20/20 at 11:46:55
+Ping stopped
+End: 11:47:01
+Output: urllc_run_10.json
+iperf3 stopped
+UE stopped
+sqn reset complete
+UE restarting...
+UE2 tunnel IP: 10.0.0.3
+UE attached successfully
+Waiting 10s before next run...
+
+================================================
+EXPERIMENT 1 urllc COMPLETE
+Finished: Fri 14 Aug 2026 11:47:33 SAST
+Results: ~/iperf_results/testbed/exp1/urllc/
+================================================
