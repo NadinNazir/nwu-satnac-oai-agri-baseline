@@ -1,0 +1,176 @@
+================================================
+EXPERIMENT 2 — mMTC+ URLLC
+Date: Sat 15 Aug 2026 09:23:54 SAST
+UEs: oai-nr-ue1 (IMSI: 001010000000101) & oai-nr-ue2 (IMSI: 001010000000102)
+================================================
+
+--- RUN 1 of 5 ---
+Start: 09:23:54
+Pings started (mMTC PID 70963, URLLC PID 70965)
+  TX 1/20 at 09:26:05
+  TX 2/20 at 09:26:11
+  TX 3/20 at 09:26:18
+  TX 4/20 at 09:26:24
+  TX 5/20 at 09:26:31
+  TX 6/20 at 09:26:37
+  TX 7/20 at 09:26:43
+  TX 8/20 at 09:26:50
+  TX 9/20 at 09:26:56
+  TX 10/20 at 09:27:03
+  TX 11/20 at 09:27:09
+  TX 12/20 at 09:27:16
+  TX 13/20 at 09:27:22
+  TX 14/20 at 09:27:28
+  TX 15/20 at 09:27:35
+  TX 16/20 at 09:27:41
+  TX 17/20 at 09:27:48
+  TX 18/20 at 09:27:54
+  TX 19/20 at 09:28:00
+  TX 20/20 at 09:28:07
+End: 09:28:12
+Output: mmtc_run_1.json && urllc_run_1.json
+Pings stopped
+iperf3 stopped
+UEs stopped
+sqn reset complete
+UEs restarting...
+UEs attached — mMTC:10.0.0.2 URLLC:10.0.0.3
+Waiting 10s before next run...
+
+--- RUN 2 of 5 ---
+Start: 09:28:58
+Pings started (mMTC PID 92259, URLLC PID 92261)
+  TX 1/20 at 09:31:09
+  TX 2/20 at 09:31:15
+  TX 3/20 at 09:31:22
+  TX 4/20 at 09:31:28
+  TX 5/20 at 09:31:35
+  TX 6/20 at 09:31:41
+  TX 7/20 at 09:31:48
+  TX 8/20 at 09:31:54
+  TX 9/20 at 09:32:01
+  TX 10/20 at 09:32:07
+  TX 11/20 at 09:32:13
+  TX 12/20 at 09:32:20
+  TX 13/20 at 09:32:26
+  TX 14/20 at 09:32:33
+  TX 15/20 at 09:32:39
+  TX 16/20 at 09:32:46
+  TX 17/20 at 09:32:52
+  TX 18/20 at 09:32:58
+  TX 19/20 at 09:33:05
+  TX 20/20 at 09:33:11
+End: 09:33:16
+Output: mmtc_run_2.json && urllc_run_2.json
+Pings stopped
+iperf3 stopped
+UEs stopped
+sqn reset complete
+UEs restarting...
+UEs attached — mMTC:10.0.0.2 URLLC:10.0.0.3
+Waiting 10s before next run...
+
+--- RUN 3 of 5 ---
+Start: 09:34:02
+Pings started (mMTC PID 113315, URLLC PID 113317)
+  TX 1/20 at 09:36:13
+  TX 2/20 at 09:36:20
+  TX 3/20 at 09:36:26
+  TX 4/20 at 09:36:33
+  TX 5/20 at 09:36:39
+  TX 6/20 at 09:36:46
+  TX 7/20 at 09:36:52
+  TX 8/20 at 09:36:59
+  TX 9/20 at 09:37:05
+  TX 10/20 at 09:37:11
+  TX 11/20 at 09:37:18
+  TX 12/20 at 09:37:24
+  TX 13/20 at 09:37:31
+  TX 14/20 at 09:37:37
+  TX 15/20 at 09:37:43
+  TX 16/20 at 09:37:50
+  TX 17/20 at 09:37:56
+  TX 18/20 at 09:38:03
+  TX 19/20 at 09:38:09
+  TX 20/20 at 09:38:16
+End: 09:38:21
+Output: mmtc_run_3.json && urllc_run_3.json
+Pings stopped
+iperf3 stopped
+UEs stopped
+sqn reset complete
+UEs restarting...
+UEs attached — mMTC:10.0.0.2 URLLC:10.0.0.3
+Waiting 10s before next run...
+
+--- RUN 4 of 5 ---
+Start: 09:39:07
+Pings started (mMTC PID 134239, URLLC PID 134241)
+  TX 1/20 at 09:41:18
+  TX 2/20 at 09:41:24
+  TX 3/20 at 09:41:31
+  TX 4/20 at 09:41:37
+  TX 5/20 at 09:41:44
+  TX 6/20 at 09:41:50
+  TX 7/20 at 09:41:56
+  TX 8/20 at 09:42:03
+  TX 9/20 at 09:42:09
+  TX 10/20 at 09:42:16
+  TX 11/20 at 09:42:22
+  TX 12/20 at 09:42:29
+  TX 13/20 at 09:42:35
+  TX 14/20 at 09:42:41
+  TX 15/20 at 09:42:48
+  TX 16/20 at 09:42:54
+  TX 17/20 at 09:43:01
+  TX 18/20 at 09:43:07
+  TX 19/20 at 09:43:13
+  TX 20/20 at 09:43:20
+End: 09:43:25
+Output: mmtc_run_4.json && urllc_run_4.json
+Pings stopped
+iperf3 stopped
+UEs stopped
+sqn reset complete
+UEs restarting...
+UEs attached — mMTC:10.0.0.2 URLLC:10.0.0.3
+Waiting 10s before next run...
+
+--- RUN 5 of 5 ---
+Start: 09:44:11
+Pings started (mMTC PID 155283, URLLC PID 155285)
+  TX 1/20 at 09:46:22
+  TX 2/20 at 09:46:29
+  TX 3/20 at 09:46:35
+  TX 4/20 at 09:46:42
+  TX 5/20 at 09:46:48
+  TX 6/20 at 09:46:54
+  TX 7/20 at 09:47:01
+  TX 8/20 at 09:47:07
+  TX 9/20 at 09:47:14
+  TX 10/20 at 09:47:20
+  TX 11/20 at 09:47:26
+  TX 12/20 at 09:47:33
+  TX 13/20 at 09:47:39
+  TX 14/20 at 09:47:46
+  TX 15/20 at 09:47:52
+  TX 16/20 at 09:47:59
+  TX 17/20 at 09:48:05
+  TX 18/20 at 09:48:11
+  TX 19/20 at 09:48:18
+  TX 20/20 at 09:48:24
+End: 09:48:29
+Output: mmtc_run_5.json && urllc_run_5.json
+Pings stopped
+iperf3 stopped
+UEs stopped
+sqn reset complete
+UEs restarting...
+UEs attached — mMTC:10.0.0.2 URLLC:10.0.0.3
+Waiting 10s before next run...
+================================================
+EXPERIMENT 2 — mMTC+ URLLC
+Finished: Sat 15 Aug 2026 09:49:15 SAST
+Results: ~/iperf_results/testbed/exp2/mmtc_urllc/
+================================================
+Pings stopped
