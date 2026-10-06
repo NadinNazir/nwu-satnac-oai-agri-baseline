@@ -1,0 +1,140 @@
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  4   64463   64576  0.0 MAC_STATS
+  0   64463   64577  0.0 RLC queue
+  2   64463   64578  2.4 PDCP data ind
+  2   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  0   64463   64576  0.0 MAC_STATS
+  0   64463   64577  0.0 RLC queue
+  2   64463   64578  2.4 PDCP data ind
+  2   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  0   64463   64576  0.0 MAC_STATS
+  0   64463   64577  0.0 RLC queue
+  0   64463   64578  2.4 PDCP data ind
+  0   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  6   64463   64576  0.0 MAC_STATS
+  0   64463   64577  0.0 RLC queue
+  0   64463   64578  2.4 PDCP data ind
+  5   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  4   64463   64576  0.0 MAC_STATS
+  0   64463   64577  0.0 RLC queue
+  3   64463   64578  2.4 PDCP data ind
+  1   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  0   64463   64576  0.0 MAC_STATS
+  0   64463   64577  0.0 RLC queue
+  0   64463   64578  2.4 PDCP data ind
+  0   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  3   64463   64576  0.0 MAC_STATS
+  6   64463   64577  0.0 RLC queue
+  2   64463   64578  2.4 PDCP data ind
+  2   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  3   64463   64576  0.0 MAC_STATS
+  1   64463   64577  0.0 RLC queue
+  3   64463   64578  2.4 PDCP data ind
+  3   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  3   64463   64576  0.0 MAC_STATS
+  1   64463   64577  0.0 RLC queue
+  4   64463   64578  2.4 PDCP data ind
+  6   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  0   64463   64576  0.0 MAC_STATS
+  1   64463   64577  0.0 RLC queue
+  5   64463   64578  2.4 PDCP data ind
+  1   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  2   64463   64576  0.0 MAC_STATS
+  1   64463   64577  0.0 RLC queue
+  6   64463   64578  2.4 PDCP data ind
+  7   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  6   64463   64576  0.0 MAC_STATS
+  1   64463   64577  0.0 RLC queue
+  6   64463   64578  2.4 PDCP data ind
+  2   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  6   64463   64576  0.0 MAC_STATS
+  1   64463   64577  0.0 RLC queue
+  7   64463   64578  2.4 PDCP data ind
+  0   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  7   64463   64576  0.0 MAC_STATS
+  4   64463   64577  0.0 RLC queue
+  3   64463   64578  2.4 PDCP data ind
+  3   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  3   64463   64576  0.0 MAC_STATS
+  3   64463   64577  0.0 RLC queue
+  4   64463   64578  2.4 PDCP data ind
+  7   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  7   64463   64576  0.0 MAC_STATS
+  3   64463   64577  0.0 RLC queue
+  3   64463   64578  2.4 PDCP data ind
+  6   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  7   64463   64576  0.0 MAC_STATS
+  3   64463   64577  0.0 RLC queue
+  3   64463   64578  2.4 PDCP data ind
+  6   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  4   64463   64576  0.0 MAC_STATS
+  3   64463   64577  0.0 RLC queue
+  7   64463   64578  2.4 PDCP data ind
+  1   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  3   64463   64576  0.0 MAC_STATS
+  3   64463   64577  0.0 RLC queue
+  6   64463   64578  2.4 PDCP data ind
+  3   64463   64579  1.0 pdcp_timer
+---
+PSR     PID     TID %CPU COMMAND
+  0   64463   64463  0.0 nr-softmodem
+  3   64463   64576  0.0 MAC_STATS
+  3   64463   64577  0.0 RLC queue
+  6   64463   64578  2.4 PDCP data ind
+  0   64463   64579  1.0 pdcp_timer
+---

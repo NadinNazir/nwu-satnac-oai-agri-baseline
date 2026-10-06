@@ -1,0 +1,192 @@
+UEs Starting...
+================================================
+EXPERIMENT 2 — mMTC+ embb
+Date: Sat 03 Oct 2026 01:30:15 SAST
+UEs: oai-nr-ue1 (IMSI: 001010000000101) & oai-nr-ue3 (IMSI: 001010000000103)
+================================================
+
+--- RUN 1 of 5 ---
+Start: 01:30:15
+mMTC TX 1/20 at 01:30:18
+mMTC TX 2/20 at 01:30:25
+mMTC TX 3/20 at 01:30:33
+mMTC TX 4/20 at 01:30:40
+mMTC TX 5/20 at 01:30:48
+eMBB TX 1/5 at 01:30:53
+mMTC TX 6/20 at 01:30:55
+mMTC TX 7/20 at 01:31:03
+mMTC TX 8/20 at 01:31:10
+mMTC TX 9/20 at 01:31:18
+mMTC TX 10/20 at 01:31:25
+mMTC TX 11/20 at 01:31:33
+eMBB TX 2/5 at 01:31:38
+mMTC TX 12/20 at 01:31:40
+mMTC TX 13/20 at 01:31:48
+mMTC TX 14/20 at 01:31:55
+mMTC TX 15/20 at 01:32:03
+mMTC TX 16/20 at 01:32:10
+mMTC TX 17/20 at 01:32:18
+eMBB TX 3/5 at 01:32:23
+mMTC TX 18/20 at 01:32:25
+mMTC TX 19/20 at 01:32:33
+mMTC TX 20/20 at 01:32:40
+eMBB TX 4/5 at 01:33:07
+eMBB TX 5/5 at 01:33:51
+End: 01:34:00
+All 20 mMTC and 5 eMBB transmissions completed for Run 1.
+iperf3 stopped
+UEs stopped
+sqn reset complete
+UEs restarting...
+UEs attached — mMTC:10.0.0.2 EMBB:10.0.0.3
+Waiting 10s before next run...
+
+--- RUN 2 of 5 ---
+Start: 01:34:46
+mMTC TX 1/20 at 01:34:49
+mMTC TX 2/20 at 01:34:56
+mMTC TX 3/20 at 01:35:04
+mMTC TX 4/20 at 01:35:12
+mMTC TX 5/20 at 01:35:19
+eMBB TX 1/5 at 01:35:23
+mMTC TX 6/20 at 01:35:27
+mMTC TX 7/20 at 01:35:34
+mMTC TX 8/20 at 01:35:42
+mMTC TX 9/20 at 01:35:49
+mMTC TX 10/20 at 01:35:57
+mMTC TX 11/20 at 01:36:04
+eMBB TX 2/5 at 01:36:09
+mMTC TX 12/20 at 01:36:12
+mMTC TX 13/20 at 01:36:19
+mMTC TX 14/20 at 01:36:27
+mMTC TX 15/20 at 01:36:34
+mMTC TX 16/20 at 01:36:42
+mMTC TX 17/20 at 01:36:49
+eMBB TX 3/5 at 01:36:54
+mMTC TX 18/20 at 01:36:57
+mMTC TX 19/20 at 01:37:04
+mMTC TX 20/20 at 01:37:12
+eMBB TX 4/5 at 01:37:38
+eMBB TX 5/5 at 01:38:23
+End: 01:38:32
+All 20 mMTC and 5 eMBB transmissions completed for Run 2.
+iperf3 stopped
+UEs stopped
+sqn reset complete
+UEs restarting...
+UEs attached — mMTC:10.0.0.2 EMBB:10.0.0.3
+Waiting 10s before next run...
+
+--- RUN 3 of 5 ---
+Start: 01:39:18
+mMTC TX 1/20 at 01:39:20
+mMTC TX 2/20 at 01:39:28
+mMTC TX 3/20 at 01:39:36
+mMTC TX 4/20 at 01:39:43
+mMTC TX 5/20 at 01:39:51
+eMBB TX 1/5 at 01:39:55
+mMTC TX 6/20 at 01:39:58
+mMTC TX 7/20 at 01:40:06
+mMTC TX 8/20 at 01:40:13
+mMTC TX 9/20 at 01:40:21
+mMTC TX 10/20 at 01:40:28
+mMTC TX 11/20 at 01:40:36
+eMBB TX 2/5 at 01:40:39
+mMTC TX 12/20 at 01:40:43
+mMTC TX 13/20 at 01:40:50
+mMTC TX 14/20 at 01:40:58
+mMTC TX 15/20 at 01:41:06
+mMTC TX 16/20 at 01:41:13
+mMTC TX 17/20 at 01:41:21
+eMBB TX 3/5 at 01:41:25
+mMTC TX 18/20 at 01:41:28
+mMTC TX 19/20 at 01:41:36
+mMTC TX 20/20 at 01:41:43
+eMBB TX 4/5 at 01:42:09
+eMBB TX 5/5 at 01:42:54
+End: 01:43:03
+All 20 mMTC and 5 eMBB transmissions completed for Run 3.
+iperf3 stopped
+UEs stopped
+sqn reset complete
+UEs restarting...
+UEs attached — mMTC:10.0.0.2 EMBB:10.0.0.3
+Waiting 10s before next run...
+
+--- RUN 4 of 5 ---
+Start: 01:43:49
+mMTC TX 1/20 at 01:43:51
+mMTC TX 2/20 at 01:43:59
+mMTC TX 3/20 at 01:44:06
+mMTC TX 4/20 at 01:44:14
+mMTC TX 5/20 at 01:44:21
+eMBB TX 1/5 at 01:44:26
+mMTC TX 6/20 at 01:44:29
+mMTC TX 7/20 at 01:44:36
+mMTC TX 8/20 at 01:44:44
+mMTC TX 9/20 at 01:44:51
+mMTC TX 10/20 at 01:44:59
+mMTC TX 11/20 at 01:45:06
+eMBB TX 2/5 at 01:45:10
+mMTC TX 12/20 at 01:45:14
+mMTC TX 13/20 at 01:45:21
+mMTC TX 14/20 at 01:45:29
+mMTC TX 15/20 at 01:45:36
+mMTC TX 16/20 at 01:45:44
+mMTC TX 17/20 at 01:45:51
+eMBB TX 3/5 at 01:45:55
+mMTC TX 18/20 at 01:45:59
+mMTC TX 19/20 at 01:46:06
+mMTC TX 20/20 at 01:46:14
+eMBB TX 4/5 at 01:46:40
+eMBB TX 5/5 at 01:47:24
+End: 01:47:33
+All 20 mMTC and 5 eMBB transmissions completed for Run 4.
+iperf3 stopped
+UEs stopped
+sqn reset complete
+UEs restarting...
+UEs attached — mMTC:10.0.0.2 EMBB:10.0.0.3
+Waiting 10s before next run...
+
+--- RUN 5 of 5 ---
+Start: 01:48:19
+mMTC TX 1/20 at 01:48:22
+mMTC TX 2/20 at 01:48:29
+mMTC TX 3/20 at 01:48:37
+mMTC TX 4/20 at 01:48:44
+mMTC TX 5/20 at 01:48:52
+eMBB TX 1/5 at 01:48:55
+mMTC TX 6/20 at 01:48:59
+mMTC TX 7/20 at 01:49:07
+mMTC TX 8/20 at 01:49:14
+mMTC TX 9/20 at 01:49:22
+mMTC TX 10/20 at 01:49:30
+mMTC TX 11/20 at 01:49:37
+eMBB TX 2/5 at 01:49:42
+mMTC TX 12/20 at 01:49:45
+mMTC TX 13/20 at 01:49:52
+mMTC TX 14/20 at 01:50:00
+mMTC TX 15/20 at 01:50:07
+mMTC TX 16/20 at 01:50:15
+mMTC TX 17/20 at 01:50:22
+eMBB TX 3/5 at 01:50:27
+mMTC TX 18/20 at 01:50:29
+mMTC TX 19/20 at 01:50:37
+mMTC TX 20/20 at 01:50:45
+eMBB TX 4/5 at 01:51:11
+eMBB TX 5/5 at 01:51:55
+End: 01:52:04
+All 20 mMTC and 5 eMBB transmissions completed for Run 5.
+iperf3 stopped
+UEs stopped
+sqn reset complete
+UEs restarting...
+UEs attached — mMTC:10.0.0.2 EMBB:10.0.0.3
+Waiting 10s before next run...
+================================================
+EXPERIMENT 2 — mMTC+ EMBB
+Finished: Sat 03 Oct 2026 01:52:49 SAST
+Results: ~/iperf_results/testbed/exp2/mmtc_embb/
+================================================
+iperf3 stopped
